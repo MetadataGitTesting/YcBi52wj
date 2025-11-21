@@ -1,0 +1,58 @@
+name: julian.romaguera
+description: value-added
+version: 0.4.3.48
+author: slakn83a.77mjvg0w@jedadjxc.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: julianromaguera
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-11-21 23:11:33'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-11-21 23:11:33'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-11-21T23:11:33.882507Z'
+  name: plibMaven
+  version: 8.16.0-SNAPSHOT
+  id: '71421788'
+  createdAt: '2025-11-21T23:11:33.882507Z'
+  type: plibMaven
+projectDependencies:
+  '521':
+    projectUID: 521
+    projectName: zona.strosin
+    repositoryPath: gitUri=http://gitserver:3000/dev_QYI7KPi2_team_846/dev_QYI7KPi2_project_521.git&subPath=
+    version: zona.strosin/0.72.884
+    isDefault: false
+    author: null
+    createdAt: '2025-11-21 23:11:31'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
